@@ -32,7 +32,13 @@ Juntamente com este relato, realizou-se uma união de pontos desta lenda popular
 
 #### **Mensagem de início do jogo**: AGORA VOCÊ DEVE INVESTIGAR ESSES TRÊS CENÁRIOS DA HISTÓRIA!
 
+# Estrutura do Jogo:
 
+![](fluxograma.PNG)
+
+### Referências:
+
+        POVO ONLINE, O. Enterros em igrejas foram prática comum até o século XIX. São Paulo, 2014. Disponível em: https://www20.opovo.com.br/app/opovo/cotidiano/2014/11/01/noticiasjornalcotidiano,3341197/enterros-em-igrejas-foram-pratica-comum-ate-o-seculo-xix.shtml. Acesso em: 26 fev. 2021
 
 
 
